@@ -1,2 +1,1 @@
-# twitter-pro
- A replica of twitter
+### dev_appserver.py app.yaml
